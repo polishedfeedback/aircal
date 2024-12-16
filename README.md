@@ -13,7 +13,7 @@ This command will download and install the binary to your `$GOPATH/bin` director
 ### Verify Installation
 
 ```bash
-air-calc --version
+aircalc --version
 ```
 
 If you see a version number, the installation was successful.
@@ -22,7 +22,7 @@ If you see a version number, the installation was successful.
 
 1. Run the calculator:
 ```bash
-air-calc
+aircalc
 ```
 
 2. Follow the interactive prompts:
